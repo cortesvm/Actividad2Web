@@ -1,0 +1,253 @@
+@font-face {
+    font-family: "Bad";
+    src: url(Font/Bad.otf);
+}
+
+
+body{
+    background-color: #0c3e11;
+    text-align: center;
+}
+
+table {
+    background-color: #030303;
+    border: 2px; 
+    text-align: center;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-size: 30px; 
+    margin: auto;
+
+}
+
+tr, td{
+    border: 2px solid black;
+    font-weight: bold;
+
+}
+
+.bodyidexformulario {
+    background-image: url("img/TablaPeriodica/fondo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    font-family: "Bad";
+    font-weight: bold;
+}
+
+#logo {
+    width: 200px; 
+    height: 200px; 
+}
+
+#imgposter {
+    width: 700px;
+    height: 300px;
+    border: 10px outset brown;
+    border-radius: 22px;
+    text-align: center;
+}
+
+
+
+
+.borde {
+    font-family: Helvetica;
+    text-align: center;
+}
+
+
+#tablauno {
+    width: 1100px; 
+    height: 800px;  
+    block-size: auto;
+    display: block;
+   
+}
+
+#tablados {
+    width: 1000px; 
+    height: 200px;   
+    block-size: auto;
+    display: block;
+}
+
+.imagentitulo {
+    height:250px; 
+    width: 600px; 
+}
+
+
+.subindice {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 10px; 
+    color: #030303;
+}
+
+
+/*formulario*/
+
+h1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 60px; 
+}
+
+h2 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+h3{
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 20px; 
+}
+
+.letra {
+    font-family: Helvetica;
+}
+
+.estiloformulario {
+    width: 600px;
+    height: 700px;
+    background-color: rgb(238, 189, 247); 
+    border: 5px outset rgb(178, 23, 123);
+    border-radius: 22px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.huecosuno {
+    background-color: #ddf196;
+    width: 220px;
+    height: 14px;
+    
+}
+
+.huecos {
+    background-color: #ddf196;
+}
+
+.huecosenvio {
+    background-color: #60c762;
+}
+
+.huecocomentario {
+    background-color: #ddf196;
+    width: 400px;
+    height: 100px;
+}
+
+
+
+/*tabla*/
+
+.bodytabla {
+    background-color:#0c3e11;
+    text-align: center;
+    display: block;
+}
+
+
+.primera {
+    background-color: #568204;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.verdeclaro {
+    background-color: #cacda3;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.moradooscuro {
+    background-color: #8f78f8;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+   
+.moradoclaro {
+    background-color: #d1caee;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+   
+.verde {
+    background-color: #0c5c15;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.verdeoscuro {
+    background-color: #0b3827;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.verdoso {
+    background-color: #a1ce59;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.morado {
+    background-color: #78688a;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.gris {
+    background-color: #333233;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.negro {
+    background-color: #030303;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.amarillo {
+    background-color: #8caa18;
+    width: 100px;
+    height: 100px;
+    font-size: 30px; 
+}
+
+.imagen {
+    width: 70px; 
+    height: 70px; 
+}
+
+
+
+.imagendos {
+    width: 100%; 
+    height: 100%; 
+   display: block;
+}
+
+
